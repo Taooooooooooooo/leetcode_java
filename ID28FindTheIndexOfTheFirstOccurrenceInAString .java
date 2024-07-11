@@ -15,7 +15,7 @@ class Solution {
     public int strStr(String haystack, String needle) {
 		int s = needle.length();
 		for (int i = 0; i < haystack.length(); i++) {
-			
+
 		}
 		
 
